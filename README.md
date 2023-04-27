@@ -1,2 +1,2 @@
 # Skylabs
-Online appointment of doctors and booking medicines online
+Online appointment of doctors and booking medicines with doorstep delivery
